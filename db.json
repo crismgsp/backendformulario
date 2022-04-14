@@ -1,10 +1,92 @@
 {
-    "mensagens": [
-        {
-            "id": 1,
-            "nome": "teste",
-            "mensagem":"mensagem teste pra ter uma ideia de quantos caracteres pode ter aqui. uns numeros: 1,2,3,4,5,6,7,8,9,10."
-        }
-        
-    ]      
-}      
+  "roupas": [
+    {
+      "id": 1,
+      "nome": "Vestido listrado",
+      "preco": 150,
+      "descricao": "Lindo vestido listrado de preto e branco, com babado"
+  
+    },
+    {
+      "id": 2,
+      "nome": "Conjunto preto",
+      "preco": 220,
+      "descricao": "Conjunto preto, com top, bermuda e casaco"
+      
+    },
+    {
+      "id": 3,
+      "nome": "Vestido estampado",
+      "preco": 190,
+      "descricao": "Vestido estampado cor azul, com flores coloridas"
+      
+    },
+    {
+      "id": 4,
+      "nome": "Vestidos com abertura na cintura",
+      "preco": 185,
+      "descricao": "Vestidos com abertura lateral na cintura, com 3 cores disponiveis, rosa, verde e azul"
+      
+    },
+    {
+      "id": 5,
+      "nome": "Conjunto de calça e blusa",
+      "preco": 190,
+      "descricao": "Lindo conjunto de calça azul e blusa estampada"
+
+    },  
+      
+    {
+      "id": 6,
+      "nome": "Vestido com estampa de onça",
+      "preco": 175,
+      "descricao": "Vestido com estampa de onça, tecido suoer leve e fresco."
+      
+    },
+    
+    {
+      "id": 7,
+      "nome": "Blusa rosa e branca",
+      "preco": 135,
+      "descricao": "Blusa rosa e branca com gola em v, super confortável."
+      
+    },
+
+    {
+      "id": 8,
+      "nome": "Terno rosa",
+      "preco": 300,
+      "descricao": "Conjunto de terno rosa. Disponível nos tamanhos: 44, 46 e 48."
+      
+    },
+    {
+      "id": 9,
+      "nome": "Vestido estampado",
+      "preco": 170,
+      "descricao": "Vestido estampado, laranjado e verde"
+      
+    },
+    {
+      "id": 10,
+      "nome": "Vestido com estampa de trigre",
+      "preco": 180,
+      "descricao": "Vestido longo com estampa de tigre, amarelo e preto."
+      
+    },
+    {
+      "id": 11,
+      "nome": "Vestido  cor de vinho",
+      "preco": 400,
+      "descricao": "Lindo vestido para festas e eventos especiais, longo e cor de vinho"
+      
+    },
+    {
+      "id": 12,
+      "nome": "Macaquinho de algodão",
+      "preco": 200,
+      "descricao": "Lindo macaquinho, tecido super leve."
+      
+    }
+  ]  
+   
+}   
